@@ -10,6 +10,7 @@ cryptography = "2.8"
 cose = "^0.9.dev8"
 cbor2 = "^5.4.1"
 base45 = "^0.4.2"
+Pygments = "^2.10.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
