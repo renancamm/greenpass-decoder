@@ -1,5 +1,5 @@
 # How to run
-##### 1. Use a QR-Code reader to get the content of your own QR-Code. 
+#### 1. Use a QR-Code reader to get the content of your own QR-Code. 
 You can try some online tool like this one: https://www.onlinebarcodereader.com/
 
 The extracted code should look similar to this example:
@@ -12,14 +12,14 @@ U8ST3HDRJNPV3UJADJ9BVV:7K13B4WQ+DCTEG4V8OT09797FZMQ3/A7DU0.3D148IDZ%UDR9CYF
 
 
 
-##### 2. Intall `poetry` to manage python dependencies.
+#### 2. Intall `poetry` to manage python dependencies.
 Quick install: `curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -`
 
 Read more: https://python-poetry.org/docs/#installation
 
 
 
-##### 3. Type `poetry run python decode.py 'HC1:6BFNXSI...'` from the root directory.
+#### 3. Type `poetry run python decode.py 'HC1:6BFNXSI...'` from the root directory.
 
 ---
 
