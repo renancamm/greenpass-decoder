@@ -3,7 +3,9 @@ This is simple python app to read what is inside the QR-code from your European 
 
 Idea and Code from this article: https://hackernoon.com/how-to-decode-your-own-eu-vaccination-green-pass-with-a-few-lines-of-python-9v2c37s1
 
----
+
+
+
 
 # How to run
 #### 1. Use a QR-Code reader to get the content of your own QR-Code. 
