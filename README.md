@@ -19,7 +19,7 @@ Read more: https://python-poetry.org/docs/#installation
 
 
 
-##### 3. Type `python decode.py 'HC1:6BFNXSI...'` from the root directory.
+##### 3. Type `poetry run python decode.py 'HC1:6BFNXSI...'` from the root directory.
 
 ---
 
