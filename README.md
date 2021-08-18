@@ -7,8 +7,8 @@ Idea and Code from this article: https://hackernoon.com/how-to-decode-your-own-e
 
 
 
-# How to run
-#### 1. Use a QR-Code reader to get the content of your own QR-Code. 
+## How to run
+##### 1. Use a QR-Code reader to get the content of your own QR-Code. 
 You can try some online tool like this one: https://www.onlinebarcodereader.com/
 
 
@@ -20,16 +20,16 @@ CEN RAXI:D53H8EA0+WAI9M8JC0D0S%8PO00DJAPE3 GZZB:X85Y8345MOLUZ3+HT0TRS76MW2O.0CGL
 U8ST3HDRJNPV3UJADJ9BVV:7K13B4WQ+DCTEG4V8OT09797FZMQ3/A7DU0.3D148IDZ%UDR9CYF
 
 
----
 
 
-#### 2. Install `poetry` to manage python dependencies.
+
+##### 2. Install `poetry` to manage python dependencies.
 Quick install: `curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -`
 
 Read more: https://python-poetry.org/docs/#installation
 
 
----
 
 
-#### 3. Type `poetry run python decode.py 'HC1:6BFNXSI...'` from the root directory.
+
+##### 3. Type `poetry run python decode.py 'HC1:6BFNXSI...'` from the root directory.
