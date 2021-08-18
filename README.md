@@ -12,7 +12,7 @@ U8ST3HDRJNPV3UJADJ9BVV:7K13B4WQ+DCTEG4V8OT09797FZMQ3/A7DU0.3D148IDZ%UDR9CYF
 
 
 
-#### 2. Intall `poetry` to manage python dependencies.
+#### 2. Install `poetry` to manage python dependencies.
 Quick install: `curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -`
 
 Read more: https://python-poetry.org/docs/#installation
